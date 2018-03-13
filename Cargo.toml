@@ -1,0 +1,7 @@
+[package]
+name = "recursion"
+version = "0.1.0"
+authors = ["Gavriel Rachael-Homann <gxr2329@rit.edu>"]
+
+[dependencies]
+rand="*"
